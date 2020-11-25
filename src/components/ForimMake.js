@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class ForimMake extends Component {
+ class ForimMake extends Component {
 
 
 constructor(props) {
